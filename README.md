@@ -1,4 +1,4 @@
-# Hi! My name is Cristina Falcón  [![CristinaEmote](./CristinaFC_emote.png)}(#)
+# Hi! My name is Cristina Falcón  [CristinaEmote](./CristinaFC_emote.png)(#)
 
 ### Software Developer 💻
 
