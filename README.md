@@ -42,6 +42,8 @@
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CristinaFC-2eafec?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://es.linkedin.com/in/cristina-falc%C3%B3n-carqu%C3%A9-78a5a1217?msclkid=96e178cab34211ecb6b452d374a0a8d0)
+[![Portfolio](https://img.shields.io/badge/Link_Site-CristinaFC-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://cristinafc.github.io/Portfolio/)
+
 
 ## Contact:
 [![Email](https://img.shields.io/badge/cristinafalconcarque@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cristinafalconcarque@gmail.com)
