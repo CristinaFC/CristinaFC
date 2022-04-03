@@ -1,4 +1,5 @@
-# Hi! My name is Cristina Falcón 👋
+# Hi! My name is Cristina Falcón  [![CristinaEmote](./CristinaFC_emote.png)}(#)
+
 ### Software Developer 💻
 
 🌱 Actually, I' am finishing Computer Science degree at ULPGC.
