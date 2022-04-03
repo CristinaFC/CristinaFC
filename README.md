@@ -35,7 +35,7 @@
   <tr>
     <td>Java</td>
     <td>HTML, CSS, JS</td>
-    <td>Node Js, React</td>
+    <td>React, Node JS</td>
   </tr>
 </table>
 
