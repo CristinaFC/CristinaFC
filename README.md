@@ -2,7 +2,7 @@
 
 ### Software Developer 💻
 
-🌱 I'm 23 years old and actually, I'm  finishing Computer Science degree at ULPGC
+🌱 I'm 24 years old and actually, I'm  finishing Computer Science degree at ULPGC
 
 ## Skills:
 <table>
